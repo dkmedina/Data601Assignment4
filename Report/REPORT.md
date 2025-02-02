@@ -24,4 +24,13 @@
   - We could launch seasonal energy-saving programs during the high-intensity months such as November-January focusing on over-consumption of energy
 - Establish Stricter building codes
 - Limit future building sizes
-  - The correlation matrix showed strong correlations between GHG emissions and building sizes, as well as site energy use and building size, if we can limit some building sizes going forward we can limit potential areas of high GHG emissions and energy use. 
+  - The correlation matrix showed strong correlations between GHG emissions and building sizes, as well as site energy use and building size, if we can limit some building sizes going forward we can limit potential areas of high GHG emissions and energy use.
+
+![GHGTop10](https://github.com/user-attachments/assets/0c03a2d2-35b2-44f1-9211-05c5056e8104)
+
+
+![HeatMap](https://github.com/user-attachments/assets/a236b2d1-c2db-4227-ae2f-4094f8f99de1)
+
+![TimeSeries](https://github.com/user-attachments/assets/30bf5f37-e4f0-4aaf-87ce-9cfb6d6f14bf)
+
+
